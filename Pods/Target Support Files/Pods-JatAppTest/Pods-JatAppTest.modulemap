@@ -1,0 +1,6 @@
+framework module Pods_JatAppTest {
+  umbrella header "Pods-JatAppTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
